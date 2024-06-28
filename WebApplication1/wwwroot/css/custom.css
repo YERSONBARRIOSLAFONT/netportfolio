@@ -1,0 +1,51 @@
+﻿body {
+    background-color: white;
+}
+
+.hero {
+    color:black;
+}
+
+#foto {
+    width: 200px;
+    margin: 2rem 0;
+    border-radius: 50%;
+    border: 6px solid white;
+    border-top-color: #0D6EFD;
+    border-bottom-color: #0D6EFD;
+}
+
+.welcome-section {
+    margin: 5rem 0 10rem 0;
+    color: #000000;
+}
+
+.welcome-section h1 {
+ margin-bottom: 1rem;
+ color: white;
+}
+
+.welcome-section p {
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-size: 1.25rem;
+    color: white;
+}
+
+.welcomeBackground {
+    background-color: #0D6EFD;
+}
+
+#dotnet-image {
+    width: 500px
+}
+
+.BackendHeader {
+    font-weight: bold;
+
+}
+
+.habilities ul {
+    list-style: none;
+    padding-left: 0;
+}
